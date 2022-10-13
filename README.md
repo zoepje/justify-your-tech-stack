@@ -1,6 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Justify your Tech Stack
+# Justify your Tech-stack
 
 Verantwoord en presenteer je keuze voor een tech-stack.
 
