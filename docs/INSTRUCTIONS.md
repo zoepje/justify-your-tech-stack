@@ -8,7 +8,7 @@ Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
 In deze deeltaak ga je de keuze voor je tech-stack verantwoorden en presenteren.
 
 ## Context
-Deze deeltaak hoort bij [sprint 15 "choices, choices"]. Dit is een opdracht die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 15 "choices, choices". Dit is een opdracht die je individueel uitvoert.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
