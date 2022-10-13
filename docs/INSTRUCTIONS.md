@@ -10,6 +10,8 @@ In deze deeltaak ga je de keuze voor je tech-stack verantwoorden en presenteren.
 ## Context
 Deze deeltaak hoort bij sprint 15 "choices, choices". Dit is een opdracht die je individueel uitvoert.
 
+In het college S15W1-02-HOe-Kies-Je-Een-Tech-Stack wordt behandeld hoe je een verantwoorde keuze voor een Tech-stack kan maken. 
+
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
@@ -31,10 +33,8 @@ De development lifecycle kent de volgende stappen:
 5. Testen - bijvoorbeeld: Unit testing (TDD), System test, User test, device lab test, A\B testing.
 
 ### Aanpak
-1. Kies een user story uit de backlog van het project waar je aan gaat werken. De projecten staan bij [FDND Agency](https://github.com/fdnd-agency).  
-2. Fork de leertaak
-3. Hou je proces bij in de Wiki van de geforkte repository
-4. En schrijf een goede readme
+
+
 
 ## Criteria
 
