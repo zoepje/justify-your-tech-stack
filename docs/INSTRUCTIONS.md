@@ -3,17 +3,17 @@ De conventie voor naamgeving is sprintnaam-(sub)taaknaam
 Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
 -->
 
-# Naam
+# Justify Your Techstack
 
-Beschrijving van de leertaak
+In deze deeltaak ga je de keuze voor je techstack verantwoorden en presenteren
 
 ## Context
-Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van de opdracht] die je [individueel, in team] uitvoert voor [opdrachtgever]
+Deze deeltaak hoort bij [sprint 15 "choices, choices"]. Dit is een opdracht die je individueel uitvoert.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-beschrijf de taak in actieve taal: Je leert hoe...
+Je leert hoe je een onderbouwde keuze voor een techstack kan onderbouwen en presenteren.
 
 ## Werkwijze
 ![Opdrachtomschrijving](opdrachtomschrijving.png)
@@ -38,10 +38,11 @@ De development lifecycle kent de volgende stappen:
 
 ## Criteria
 
-Focus sprint # - De focus in deze sprint ligt op ...
+Focus sprint 15 - In deze sprint ligt de focus op het maken van onderbouwde keuzes voor de frameworks, tools en workflow die je gebruikt voor je project.
 
-Voor deze leertaak gelden de gedragscriteria voor sprint #: 
-...
+Deze deeltaak hoort bij het gedragscriterium:
+
+C: Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan belanghebbenden.
 
 Deze opdracht is done als:
 
