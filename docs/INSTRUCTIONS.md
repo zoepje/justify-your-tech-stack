@@ -3,7 +3,7 @@ De conventie voor naamgeving is sprintnaam-(sub)taaknaam
 Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
 -->
 
-# Choices, Choices - Justify Your Techstack
+# Choices, Choices - Justify Your Tech-stack
 
 In deze deeltaak ga je de keuze voor je tech-stack verantwoorden en presenteren.
 
