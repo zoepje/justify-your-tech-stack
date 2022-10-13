@@ -5,7 +5,7 @@ Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
 
 # Choices, Choices - Justify Your Techstack
 
-In deze deeltaak ga je de keuze voor je techstack verantwoorden en presenteren
+In deze deeltaak ga je de keuze voor je tech-stack verantwoorden en presenteren.
 
 ## Context
 Deze deeltaak hoort bij [sprint 15 "choices, choices"]. Dit is een opdracht die je individueel uitvoert.
@@ -13,7 +13,7 @@ Deze deeltaak hoort bij [sprint 15 "choices, choices"]. Dit is een opdracht die 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-Je leert hoe je een onderbouwde keuze voor een techstack kan onderbouwen en presenteren.
+Je leert hoe je een onderbouwde keuze voor een tech-stack kan onderbouwen en presenteren.
 
 ## Werkwijze
 ![Opdrachtomschrijving](opdrachtomschrijving.png)
