@@ -33,17 +33,19 @@ In jouw onderzoek ga je van de drie eerdergenoemde invalshoeken uit bij het onde
 - [Developer eXperience (DX)](#2-developer-experience)
 - [Content Management eXperience (CMX)](#3-content-management-experience)
 
-Begin met het op een rij zetten van een tech-stack, je kunt hierbij hulp vragen aan je docenten of mede-studenten. Voel je vrij om iets te kiezen waar je nog geen ervaring mee hebt, we gaan immers onderzoeken!
+Begin met het op een rij zetten van een tech-stack, je kunt hierbij hulp vragen aan je docenten of mede-studenten. Voel je vrij om iets te kiezen waar je nog geen ervaring mee hebt, we gaan immers onderzoeken! 
+
+N.B.: Wellicht helpt het je om een paar van de [bronnen](#bronnen) door te lezen om grip te krijgen op waar we het over hebben. Dat gaat je helpen bij het uitvoeren van onderstaande opdrachten.
 
 #### 1. User eXperience
 
 Voor de UX is het belangrijk te weten wie de gebruikers zijn van de website, wat voor apparaten zij gebruiken en of ze bv snel internet hebben of juist niet. Als je het antwoord op bovenstaande vragen hebt onderzoek je wat voor type pagina jouw tech-stack genereert. Is het heel zwaar op 3d animatie? Vraagt de frontend veel javascript rekenkracht? Is er veel netwerkverkeer bij het gebruik van jouw toepassing? Kan het omgaan met het wegvallen van het internet of is er een continue verbinding nodig?
 
-##### Aanpak
-1. Onderzoek jouw tech-stack op user experience. Bijvoorbeeld door het doen van een snelle WCAG audit met lighthouse of Axe.
-2. Documenteer je bevindingen in de wiki! 
+Denk aan de door jou in het verleden bij FDND opgedane kennis omtrent UX bij het uitvoeren van dit onderzoek.
 
-Bronnen: …
+##### Aanpak
+1. Onderzoek jouw tech-stack op user experience. Bijvoorbeeld door het doen van een snelle WCAG audit met lighthouse of Axe. Houdt je eerdere ervaring bij FDND met betrekking tot UX in het achterhoofd.
+2. Documenteer je bevindingen in de wiki! 
 
 #### 2. Developer eXperience
 
@@ -62,18 +64,16 @@ Tenslotte is een **heldere interface** (bijv. API) waar je tegen aan programmeer
 1. Onderzoek jouw tech-stack op developer experience. Het beste is een klein project met de tech-stack proberen te realiseren, bijvoorbeeld een oude leertaak.
 2. Documenteer je bevindingen in de wiki! Bijvoorbeeld door genoemde punten te beschrijven: functies, betrouwbaarheid, gemak en helderheid.
 
-Bronnen: https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9
-
 #### 3. Content Management eXperience
 
-Het CMS gaat gebruikt worden door de opdrachtgevers of andere content beheerders. 
+Het CMS gaat gebruikt worden door de opdrachtgevers of andere content beheerders. Of de beheerders jouw CMS kunnen gebruiken hangt af van het gebruiksgemak en de benodigde technische capaciteit. Als je een ingewikkeld GraphQL systeem gebruikt met onderlinge afhankelijkheden moet een CM-team best tech-savvy zijn, bij een tool als prismic valt dat heel erg mee (zeker als je user-levels gebruikt!).
+
+Wat voor eisen stelt jouw tech-stack aan de beheerder van het systeem? Hebben ze genoeg aan domein-kennis van hun eigen bedrijf of moeten ze een deel van jouw skills als frontend designer/developer omarmen voor ze iets kunnen toevoegen of aanpassen?
 
 ##### Aanpak
 
 1. Onderzoek jouw tech-stack op content management experience. De opleiding naast ons (Smart Media Production) gaat over content-beheer. Misschien kan je een van hun studenten interviewen over wat ze prettig vinden. Je kunt zelfs vragen of ze in een door jouw opgezet systeem content toe te voegen en of ze dat prettig vinden..
 2. Documenteer je bevindingen in de wiki! 
-
-Bronnen: …
 
 #### 4. Rapportage
 
@@ -98,6 +98,15 @@ De Readme.md is niet te presenteren. Zorg daarom dat je een korte presentatie ma
 3. Vertaal de 5 punten bij stap 4 naar slides, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken. Hint: Denk terug aan de lessen van Charley!
 4. Vul de agenda aan met de titels van je dia’s…
 5. Presenteer in de squad!
+
+### Bronnen
+Hier wat bronnen die je kunnen helpen bij het structureren van je onderzoek:
+
+- https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9
+- https://www.softermii.com/blog/10-tips-in-choosing-the-best-tech-stack-for-your-web-application
+- https://symfony.com/ten-criteria
+- https://www.velvetech.com/blog/choosing-project-tech-stack-basic-principles/
+- https://tray.io/blog/align-revenue-ops-tech-stack
 
 ## Criteria
 
