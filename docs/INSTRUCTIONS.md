@@ -75,29 +75,19 @@ Wat voor eisen stelt jouw tech-stack aan de beheerder van het systeem? Hebben ze
 1. Onderzoek jouw tech-stack op content management experience. De opleiding naast ons (Smart Media Production) gaat over content-beheer. Misschien kan je een van hun studenten interviewen over wat ze prettig vinden. Je kunt zelfs vragen of ze in een door jouw opgezet systeem content toe te voegen en of ze dat prettig vinden..
 2. Documenteer je bevindingen in de wiki! 
 
-#### 4. Rapportage
+#### 4. Presentatie
 
-Het hele onderzoek is te substantieel om te presenteren. Voeg daarom de conclusie en een paar *key-insights* uit elk van bovenstaande stappen samen in de Readme.md. Zorg er voor dat jouw stuk gemakkelijk leest voor iemand die weet wat het frontend vakgebied inhoudt. Je schrijft dus niet voor leken.
-
-##### Aanpak
-
-1. Begin met een korte inleiding waarin je de aanleiding en de stappen in het document beschrijft.
-2. Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX)
-3. Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX)
-4. Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX)
-5. Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt.
-
-#### 5. Presentatie
-
-De Readme.md is niet te presenteren. Zorg daarom dat je een korte presentatie maakt in bijvoorbeeld powerpoint, waarin je in maximaal 5 slides (zonder introsheet en agenda) jouw bevindingen presenteert.
+Het hele onderzoek is te substantieel om te presenteren. Voeg daarom de conclusie en een paar *key-insights* uit elk van bovenstaande stappen samen een presentatie. Maak een korte presentatie in bijvoorbeeld powerpoint, waarin je in maximaal 5 slides (zonder introsheet en agenda) jouw bevindingen presenteert. Zorg er voor dat jouw presentatie te begrijpen is voor iemand die weet wat het frontend vakgebied inhoudt. Je presenteert dus niet aan leken.
 
 ##### Aanpak
 
 1. Maak een mooie introsheet
 2. Laat een slide over voor de agenda
-3. Vertaal de 5 punten bij stap 4 naar slides, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken. Hint: Denk terug aan de lessen van Charley!
-4. Vul de agenda aan met de titels van je dia’s…
-5. Presenteer in de squad!
+3. Vertaal de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) naar één slide, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken. Hint: Denk terug aan de lessen van Charley!
+4. Vertaal de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) naar één slide, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken.
+4. Vertaal de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) naar één slide, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken.
+5. Vul de agenda aan met de titels van je dia’s…
+6. Presenteer in de squad!
 
 ### Bronnen
 Hier wat bronnen die je kunnen helpen bij het structureren van je onderzoek:
@@ -118,10 +108,9 @@ C: Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan bel
 
 Deze opdracht is done als:
 
-- [ ] Je hebt een tech stack onderzocht op basis van User experience, Developer experience en Content management experience.
+- [ ] Je hebt een tech-stack onderzocht op basis van User experience, Developer experience en Content management experience.
 - [ ] Je onderbouwt in welke omgeving deze tech-stack het beste tot haar recht komt. IOW, welke voorwaarden stelt deze tech-stack aan gebruikers, developers en content managers.
-- [ ] Je presenteert jouw bevindingen in de Readme.md.
-- [ ] Je presenteert jouw bevindingen mondeling aan een specialistisch publiek. Je gebruikt daarbij gepaste presentatiemiddelen.
+- [ ] Je presenteert jouw bevindingen aan een specialistisch publiek. Je gebruikt daarbij gepaste presentatiemiddelen.
 
 
 
