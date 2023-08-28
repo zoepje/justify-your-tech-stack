@@ -102,10 +102,6 @@ Hier wat bronnen die je kunnen helpen bij het structureren van je onderzoek:
 
 Focus sprint 15 - In deze sprint ligt de focus op het maken van onderbouwde keuzes voor de frameworks, tools en workflow die je gebruikt voor je project.
 
-Deze deeltaak hoort bij het gedragscriterium:
-
-C: Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan belanghebbenden.
-
 Deze opdracht is done als:
 
 - [ ] Je hebt een tech-stack onderzocht op basis van User experience, Developer experience en Content management experience.
