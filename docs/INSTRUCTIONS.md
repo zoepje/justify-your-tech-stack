@@ -1,16 +1,11 @@
-<!--
-De conventie voor naamgeving is sprintnaam-(sub)taaknaam
-Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
--->
-
 # Choices, Choices - Justify Your Tech-stack
 
-In deze deeltaak ga je een (nieuwe) tech-stack onderzoeken en de keuze voor deze tech-stack verantwoorden en presenteren.
+In deze deeltaak onderzoek je een nieuwe tech-stack en presenteer en verantwoord je de keuze voor deze tech-stack.
 
 ## Context
 Deze deeltaak hoort bij sprint 15 "choices, choices". Dit is een opdracht die je individueel uitvoert.
 
-In het college S15W1-02-Hoe-Kies-Je-Een-Tech-Stack wordt behandeld hoe je een verantwoorde keuze voor een Tech-stack kan maken.
+In de workshop S15W1-02-Hoe-Kies-Je-Een-Tech-Stack wordt behandeld hoe je een verantwoorde keuze voor een Tech-stack kan maken.
 
 ## Doel van deze opdracht
 
@@ -22,7 +17,7 @@ Deze opdracht gaat over [analyseren](#analyseren) van de DLC en is best uitgebre
 
 ### Analyseren
 
-Afgelopen sprints heb je websites gebouwd met tooling: Prismic.io, Sveltekit, GitHub en Netlify. Zo’n serie tools die met elkaar werken noemen we vaak een *tech-stack*. In deze leertaak onderzoek je wat de voor- en nadelen van een specifieke tech-stack zijn. Het staat je vrij een keuze te maken, voor de hand liggende keuzes voor frameworks zijn: Vue, React, Angular, Nuxt of Next maar Svelte, Sveltekit of iets totaal anders mag ook. Elk framework heeft specifieke backend systemen waar het goed mee samenwerkt, denk aan: Prismic.io, Supabase, Hygraph, Firebase etcetera. Daarnaast kan je ook specifieke tools voor specifieke doeleinden gebruiken, bijvoorbeeld: three.js of Babylon.js voor 3d animatie, d3.js voor datavisualisaties. Kortom, keuze te over.
+Afgelopen sprints heb je websites gebouwd met tooling: Prismic.io, HyGraph, Sveltekit, GitHub en Netlify. Zo’n serie tools die met elkaar werken noemen we vaak een *tech-stack*. In deze leertaak onderzoek je wat de voor- en nadelen van een specifieke tech-stack zijn. Het staat je vrij een keuze te maken, voor de hand liggende keuzes voor frameworks zijn: Vue, React, Angular, Nuxt of Next maar iets totaal anders mag ook. Het enige dat is uitgesloten is de tech-stack waar je al mee gewerkt hebt. Elk framework heeft specifieke backend systemen waar het goed mee samenwerkt, denk aan: Prismic.io, Supabase, Hygraph, Firebase etcetera. Daarnaast kan je ook specifieke tools voor specifieke doeleinden gebruiken, bijvoorbeeld: three.js of Babylon.js voor 3d animatie, d3.js voor datavisualisaties. Kortom, keuze te over. Een overzicht van alle mogelijke keuzes vind je op [https://jamstack.org/](https://jamstack.org/) onder de kopjes Headless CMS en Site Generator.
 
 Bij het onderzoeken van een mogelijke tech-stack is het belangrijk de belanghebbenden - in het engels *stakeholders* - goed in acht te nemen. Bij het werken met de tech-stack komen immers meerdere partijen samen. Jouw organisatie die als ontwikkelaar van een systeem ingehuurd wordt, de gebruiker die uiteindelijk met het systeem moet gaan werken én (medewerkers van) de opdrachtgever die het systeem gaat beheren.
 
@@ -31,7 +26,7 @@ Jouw keuze voor een tech-stack heeft enorme impact op alledrie deze partijen en 
 In jouw onderzoek ga je van de drie eerdergenoemde invalshoeken uit bij het onderzoeken van de gebruikservaring:
 - [User eXperience (UX)](#1-user-experience)
 - [Developer eXperience (DX)](#2-developer-experience)
-- [Content Management eXperience (CMX)](#3-content-management-experience)
+- [Content management eXperience (CX)](#3-content-management-experience)
 
 Begin met het op een rij zetten van een tech-stack, je kunt hierbij hulp vragen aan je docenten of mede-studenten. Voel je vrij om iets te kiezen waar je nog geen ervaring mee hebt, we gaan immers onderzoeken! 
 
@@ -98,9 +93,7 @@ Hier wat bronnen die je kunnen helpen bij het structureren van je onderzoek:
 - https://www.velvetech.com/blog/choosing-project-tech-stack-basic-principles/
 - https://tray.io/blog/align-revenue-ops-tech-stack
 
-## Criteria
-
-Focus sprint 15 - In deze sprint ligt de focus op het maken van onderbouwde keuzes voor de frameworks, tools en workflow die je gebruikt voor je project.
+## Definition of Done
 
 Deze opdracht is done als:
 
