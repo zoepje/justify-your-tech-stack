@@ -7,6 +7,10 @@ Deze deeltaak hoort bij sprint 15 "choices, choices". Dit is een opdracht die je
 
 In de workshop S15W1-02-Hoe-Kies-Je-Een-Tech-Stack wordt behandeld hoe je een verantwoorde keuze voor een Tech-stack kan maken.
 
+Deze deeltaak hoort bij de leertaak:
+
+[Choices, Choices - The Tech Stack](https://github.com/fdnd-task/choices-choices-the-tech-stack)
+
 ## Doel van deze opdracht
 
 Je leert hoe je systematisch onderzoek doet naar een passende tech-stack voor een opdracht én hoe je deze keuze kunt onderbouwen en presenteren.
