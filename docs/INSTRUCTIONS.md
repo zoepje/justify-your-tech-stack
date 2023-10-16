@@ -1,6 +1,6 @@
 # Choices, Choices - Justify Your Tech-stack
 
-In deze deeltaak onderzoek je een nieuwe tech-stack en presenteer en verantwoord je de keuze voor deze tech-stack.
+In deze deeltaak onderzoek je een nieuwe tech-stack en presenteer je het onderzoek.
 
 ## Context
 Deze deeltaak hoort bij sprint 15 "choices, choices". Dit is een opdracht die je individueel uitvoert.
@@ -9,7 +9,7 @@ In de workshop S15W1-02-Hoe-Kies-Je-Een-Tech-Stack wordt behandeld hoe je een ve
 
 ## Doel van deze opdracht
 
-Je leert hoe je systematisch onderzoek doet naar een passende tech-stack voor een opdracht én hoe je deze keuze kunt onderbouwen en presenteren aan een specialistisch publiek.
+Je leert hoe je systematisch onderzoek doet naar een passende tech-stack voor een opdracht én hoe je deze keuze kunt onderbouwen en presenteren.
 
 ## Werkwijze
 
