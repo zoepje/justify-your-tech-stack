@@ -9,7 +9,7 @@ In de workshop S15W1-02-Hoe-Kies-Je-Een-Tech-Stack wordt behandeld hoe je een ve
 
 Deze deeltaak hoort bij de leertaak:
 
-[Choices, Choices - The Tech Stack](https://github.com/fdnd-task/choices-choices-the-tech-stack)
+-  [Choices, Choices - The Tech Stack](https://github.com/fdnd-task/choices-choices-the-tech-stack)
 
 ## Doel van deze opdracht
 
