@@ -43,8 +43,9 @@ Voor de UX is het belangrijk te weten wie de gebruikers zijn van de website, wat
 Denk aan de door jou in het verleden bij FDND opgedane kennis omtrent UX bij het uitvoeren van dit onderzoek.
 
 ##### Aanpak
-1. Onderzoek jouw tech-stack op user experience. Bijvoorbeeld door het doen van een snelle WCAG audit met lighthouse of Axe. Houdt je eerdere ervaring bij FDND met betrekking tot UX in het achterhoofd.
-2. Documenteer je bevindingen in de wiki! 
+1. Beschrijf de verschillende type personen in jouw doelgroep en bepaal wat de randvoorwaarden zijn die door bijvoorbeeld hun devices of tech-geletterdheid gesteld worden.
+2. Onderzoek jouw tech-stack op user experience. Bijvoorbeeld door het doen van een snelle WCAG audit met lighthouse of Axe of een device test met een van de devices uit het device lab (de plastic koffers). Houdt je eerdere ervaring bij FDND met betrekking tot UX in het achterhoofd.
+3. Documenteer je bevindingen in de wiki!
 
 #### 2. Developer eXperience
 
