@@ -97,6 +97,7 @@ Hier wat bronnen die je kunnen helpen bij het structureren van je onderzoek:
 - https://symfony.com/ten-criteria
 - https://www.velvetech.com/blog/choosing-project-tech-stack-basic-principles/
 - https://tray.io/blog/align-revenue-ops-tech-stack
+- https://www.zachleat.com/web/site-generator-review/  
 
 ## Definition of Done
 
