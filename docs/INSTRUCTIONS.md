@@ -1,4 +1,4 @@
-# Choices, Choices - Justify Your Tech-stack
+# Justify Your Tech-stack
 
 In deze deeltaak onderzoek je een nieuwe tech-stack en presenteer je het onderzoek.
 
