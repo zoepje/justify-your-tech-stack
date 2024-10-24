@@ -1,16 +1,9 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack/blob/main/docs/INSTRUCTIONS.md)
+# Eleventy en Directus
+## Inleiding
+Deze sprint zijn we gaan werken met een andere tech-stack om erachter te komen wat je allemaal nog meer kunt gebruiken bij het bouwen van websites. Ik heb ervoor gekozen om eleventy te gaan gebruiken in samenhang met Directus. Ik heb de afgelopen twee weken hiermee gewerkt en onderzoek gedaan naar de gebruikerservaring, ontwikkelervaring en de content managment ervaaring.
 
-# Justify your Tech-stack
-
-Verantwoord en presenteer je keuze voor een tech-stack.
-
-<!-- Haal bovenstaande tekst weg! -->
-
-
-<!-- Schrijf een mooie inleiding, beschrijf minstens de aanleiding - waarom doe je deze opdracht - en de tech-stack die je onderzoekt. Beschrijf daarna heel kort de stappen bij 2, 3, 4 en 5. -->
-
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) -->
-
+## User Experiance
+Eleventy is een static site generator, wat betekend dat hij dynamisch code omzet naar een statische site die gebruikers kunnen bezoeken. Ik heb een 
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) -->
 
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
