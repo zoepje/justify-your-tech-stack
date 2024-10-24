@@ -21,12 +21,17 @@ Het gebruiken van een layout voor een detailpage is mij nog niet gelukt. Het zou
 
 
 ## Content Management Experience
-Voor de content ben ik gebleven bij Directus, omdat het bouwen van een niewe database veel werk kost en we maar twee weken tijd hadden. Directus heeft veel documentatie die je kunt doornemen en ik heb eingelijk al mijn vragen uit de Directus Docs kunnen halen. Directus is een makkelijk platform om te begrijpen voor develepors, maar ik denk dat radiologen dit niet zo snel in de handen zullen hebben. Je ziet namelijk niet hoe het er op de website gaat uitzien. Ik denk dat je dit zou kunnen oplossen door een form te maken op de website die dan alle data post naar de API. 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
+Voor de content ben ik gebleven bij Directus, omdat het bouwen van een niewe database veel werk kost en we maar twee weken tijd hadden. 
 
+Directus heeft veel documentatie die je kunt doornemen en ik heb eingelijk al mijn vragen uit de Directus Docs kunnen halen. 
+
+Directus is een makkelijk platform om te begrijpen voor develepors, maar ik denk dat radiologen dit niet zo snel in de handen zullen hebben. Je ziet namelijk niet hoe het er op de website gaat uitzien. Ik denk dat je dit zou kunnen oplossen door een form te maken op de website die dan alle data post naar de API. 
+
+## Conclusie
+Het gebruiken van eleventy is zeker te doen, je hebt alleen een dieuwte nodig in de goede richting wanneer het gaat om componenten. Eleventy heeft veel ingebouwd en ook heel veel plugins die je kunt gebruiken, waardoor het bouwen van een site goed te doen is. Alleen om het helemaal in je eentje uit te zoeken is best wel een grote vraag. 
+
+Directus is een goede CMS om te gebruiker als developer, maar als je er geen verstand van hebt moet je jezelf flink gaan inlezen. Dus voor de uiteindelijke content maneger van deze site, moet er een guide geschreven worden van hoe je content kunt toe voegen. Of je kunt ervoor zorgen dat gebruikers content kunnen toevoegen via de website zelf.
 <!-- Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt. -->
-
-<!-- De licentie hieronder mag je ook weg halen, of laten staan, wat je wilt -->
 
 ## Licentie
 
