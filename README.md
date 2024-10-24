@@ -1,4 +1,6 @@
 # Eleventy en Directus
+<img width="1440" alt="Screenshot 2024-10-24 at 6 18 43 PM" src="https://github.com/user-attachments/assets/f5f90ede-2545-4a05-b889-e1259db32744">
+
 ## Inleiding
 Deze sprint zijn we gaan werken met een andere tech-stack om erachter te komen wat je allemaal nog meer kunt gebruiken bij het bouwen van websites. Ik heb ervoor gekozen om eleventy te gaan gebruiken in samenhang met Directus. Ik heb de afgelopen twee weken hiermee gewerkt en onderzoek gedaan naar de gebruikerservaring, ontwikkelervaring en de content managment ervaaring.
 
