@@ -28,10 +28,11 @@ Directus heeft veel documentatie die je kunt doornemen en ik heb eingelijk al mi
 Directus is een makkelijk platform om te begrijpen voor develepors, maar ik denk dat radiologen dit niet zo snel in de handen zullen hebben. Je ziet namelijk niet hoe het er op de website gaat uitzien. Ik denk dat je dit zou kunnen oplossen door een form te maken op de website die dan alle data post naar de API. 
 
 ## Conclusie
-Het gebruiken van eleventy is zeker te doen, je hebt alleen een dieuwte nodig in de goede richting wanneer het gaat om componenten. Eleventy heeft veel ingebouwd en ook heel veel plugins die je kunt gebruiken, waardoor het bouwen van een site goed te doen is. Alleen om het helemaal in je eentje uit te zoeken is best wel een grote vraag. 
+Als user heb is de website wat langzamer door het bebruik van eleventy comonenten, maar het is niet zo slecht dat de website niet meer te gebruiken valt.
+
+Het gebruiken van eleventy als develeper is zeker te doen, je hebt alleen een dieuwte nodig in de goede richting als het gaat om componenten. Eleventy heeft veel ingebouwd en ook heel veel plugins die je kunt gebruiken, waardoor het bouwen van een site goed te doen is. Alleen om het helemaal in je eentje uit te zoeken is best wel een grote vraag. 
 
 Directus is een goede CMS om te gebruiker als developer, maar als je er geen verstand van hebt moet je jezelf flink gaan inlezen. Dus voor de uiteindelijke content maneger van deze site, moet er een guide geschreven worden van hoe je content kunt toe voegen. Of je kunt ervoor zorgen dat gebruikers content kunnen toevoegen via de website zelf.
-<!-- Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt. -->
 
 ## Licentie
 
