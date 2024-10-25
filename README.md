@@ -17,7 +17,7 @@ Dus je kunt snel aan de start, maar je loopt ook snel vast. Er zijn verschillend
 
 Eleventy heeft veel pluggins die je kunt gebruiken om het bouwen makkelijker te maken, zoals bijvoorbeeld een fetch. Dit was makkelijk te gebruiken bij het ophalen van de data uit Directus. 
 
-Het gebruiken van een layout voor een detailpage is mij nog niet gelukt. Het zou ingebouwd in eleventy moeten zitten, maar het lukt mij niet om het toe te passen.
+Het gebruiken van een layout voor een detailpage is ook heel eenvoudig te doen, en is ingebouwd in eleventy.
 
 
 ## Content Management Experience
